@@ -8,7 +8,7 @@ TIM(OC)
 
 ![image-20250204160515754](D:\typora\Typora\image-20250204160515754.png)
 
-以下为呼吸灯tim.c
+以下为呼吸灯tim.c(其实和直流电机驱动差不多的)
 
 ```c
 #include "tim.h"
